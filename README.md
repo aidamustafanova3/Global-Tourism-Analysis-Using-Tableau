@@ -18,6 +18,15 @@ This project explores global tourism trends across 7 countries. Using Tableau, I
 - **Accommodation availability** correlates with higher tourist numbers in countries like India and Egypt.
 
 ## 📂 Visualizations:  
-![Tourism Map](./images/tourism_map.png)  
-![Revenue Analysis](./images/revenue_analysis.png)  
-![Accommodation Insights](./images/accommodation_insights.png)  
+
+### 1. Tourism Map  
+![Tourism Map](./tourism%20map.png)  
+*Interactive world map showing visitors by country and category.*  
+
+### 2. Revenue Analysis  
+![Revenue Analysis](./revenue%20analysis.png)  
+*Bar and line charts comparing total revenue and category breakdowns.*  
+
+### 3. Accommodation Insights  
+![Accommodation Insights](./accomodation%20insights.png)  
+*Charts displaying available accommodations by country.*  
